@@ -3,10 +3,9 @@
 ### App Description
 `TODO://` The "Hello Fidget" App greets users with a "Hello" from the developer. The app allows users the change the text, text color, and background color. It then bids them a farewell once they alert the app that they are leaving.
 
-### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+![](https://i.imgur.com/YIf5AU5.gif)
+
 
 
 ### Required User Stories
